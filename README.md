@@ -214,7 +214,7 @@ public static class DataGenerator {
 
 Follow the steps below to implement commands that process all **CollectionView** items within the card:
 
-1. Specify the [SimpleButton.Command](https://docs.devexpress.com/MAUI/DevExpress.Maui.Controls.SimpleButton.Command) property to define the click commands for both footer buttons. These commands runs only when the 
+1. Specify the [SimpleButton.Command](https://docs.devexpress.com/MAUI/DevExpress.Maui.Controls.SimpleButton.Command) property to define the click commands for both footer buttons.
    
     ```xaml
     <HorizontalStackLayout HorizontalOptions="End" x:Name="commonActionsPanel" Padding="20,5,20,0">
