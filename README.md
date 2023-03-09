@@ -85,7 +85,7 @@ Follow the steps below to handle header clicks and implement navigation to the s
    namespace CollectionViewWithActionButtons.ViewModels {
        [QueryProperty(nameof(ParentCard), "Parent")]
        internal class CompleteListViewModel : INotifyPropertyChanged {
-           public Card parentCard;
+           private Card parentCard;
            public Card ParentCard {
                get { return parentCard; }
                set {
