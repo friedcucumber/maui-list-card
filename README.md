@@ -1,6 +1,6 @@
 # List Cards
 
-This example shows you how to implement a List Card. This UI element allows you to preview a few items from a lengthy list, access the complete list, and execute custom actions. 
+This example shows you how to implement a List Card - a UI element that allows you to preview several items from a lengthy list, access the complete list, and execute custom actions. 
 
 <img width="50%" src="https://user-images.githubusercontent.com/12169834/223110944-4904bf34-da91-4685-9656-fb7e09905d42.png"/>
 
